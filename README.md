@@ -9,7 +9,6 @@ Sou um desenvolvedor em aprendizado, focado em evoluir meus conhecimentos.
 ---
 ### 🛠️ Linguagens e Ferramentas
 (Aqui você pode listar o que usa/estuda)
-* Git
 * Python
 
 ---
