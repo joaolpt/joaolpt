@@ -16,9 +16,6 @@ Sou um desenvolvedor em aprendizado, focado em evoluir meus conhecimentos.
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
-- 💼 LinkedIn: [João Luís](https://www.linkedin.com/in/joão-luís-76a395302/)
-- 📷 Instagram: [@joaolpteles](https://instagram.com/joaolpteles/)
-- 📧 Email: joaoluispedrosateles145@gmail.com
 ---
 ### 🛠️ Linguagens e Ferramentas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
