@@ -8,7 +8,7 @@ Sou um desenvolvedor em aprendizado, focado em evoluir meus conhecimentos.
 ---
 
 ### 📫 Contatos
-- 💼 **LinkedIn:** [João Luís](https://www.linkedin.com/in/joão-luís-76a395302/)
+- 💼 **LinkedIn:** [João Luís](https://www.linkedin.com/in/joaolpt)
 - 📸 **Instagram:** [@joaolpteles](https://www.instagram.com/joaolpteles/)
 - ✉️ **Email:** [joaoluispedrosateles145@gmail.com](mailto:joaoluispedrosateles145@gmail.com)
 
