@@ -8,7 +8,6 @@ Sou um desenvolvedor em aprendizado, focado em evoluir meus conhecimentos.
 
 ---
 ### 🛠️ Linguagens e Ferramentas
-(Aqui você pode listar o que usa/estuda)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 
 ---
