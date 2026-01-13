@@ -12,4 +12,4 @@ Sou um desenvolvedor em aprendizado, focado em evoluir meus conhecimentos.
 
 ---
 ### 📊 Minhas estatísticas no GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=joaolpt&show_icons=true&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=joaolpt&show_icons=true&theme=dracula&v=1)
